@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jlai003.github.io/robots/",
+  "homepage": "https://jlai003.github.io/robots",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
@@ -22,7 +22,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlai003/robots.git"
+    "url": ""
   },
   "author": "jlai003",
   "license": "ISC",
