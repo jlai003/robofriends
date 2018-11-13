@@ -1,0 +1,32 @@
+{
+  "name": "robofriends",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://jlai003.github.io/robots/",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "tachyons": "^4.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlai003/robots.git"
+  },
+  "author": "jlai003",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlai003/robots/issues"
+  }
+}
