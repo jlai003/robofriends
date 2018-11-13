@@ -2,8 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
-  "dependencies": {
+ "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -22,11 +21,9 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
   },
   "author": "jlai003",
   "license": "ISC",
   "bugs": {
-    "url": ""
   }
 }
